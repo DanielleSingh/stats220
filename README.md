@@ -3,7 +3,7 @@
 1. Say hello
 2. A little about me
 
-## About Me
+## *About Me*
 * My favourite colour is **purple**
 * My favourite food is **pad thai**
 here is a [link to a pad thai recipe](https://tastesbetterfromscratch.com/pad-thai/)
